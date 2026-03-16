@@ -50,8 +50,7 @@ Cross connection: CIRCUIT DIAGRAM:
 
 
 Tabulation:2
-<img width="931" height="351" alt="image" src="https://github.com/user-attachments/assets/ac6c820d-99c9-4e7b-af4a-6ea475fdc429" />
-
+![image](https://github.com/bmbalaji2007-lab/EXP-3/blob/main/WhatsApp%20Image%202026-03-16%20at%201.07.28%20AM.jpeg?raw=true)
 
 RESULT:
 Thus the staircase wiring is connected and tested.
