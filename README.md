@@ -43,8 +43,7 @@ Direct connection: CIRCUIT DIAGRAM:
 <img width="965" height="475" alt="image" src="https://github.com/user-attachments/assets/81382c4d-d83c-40d9-95ef-67f961645ecb" />
 
 Tabulation:1
-<img width="892" height="448" alt="image" src="https://github.com/user-attachments/assets/c65f0468-856e-4832-88b9-5e78ace3f691" />
-
+![image](https://github.com/bmbalaji2007-lab/EXP-3/blob/main/WhatsApp%20Image%202026-03-16%20at%201.07.27%20AM.jpeg?raw=true)
 
 Cross connection: CIRCUIT DIAGRAM:
 <img width="931" height="501" alt="image" src="https://github.com/user-attachments/assets/4a43605b-2185-4b2b-8ddc-978c66dba0f1" />
